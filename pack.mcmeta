@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "name": "Perf testing pack",
+        "description": "Testing and gather data for performance testing",
+        "version": "1.0.0",
+        "author": ["Neylz"],
+        "pack_format": 12
+    }
+}
